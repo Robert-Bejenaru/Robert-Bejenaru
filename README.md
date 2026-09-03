@@ -18,9 +18,9 @@ My portfolio focuses on:
 | Project | Tools | Focus |
 |---|---|---|
 | [Retail Sales Performance Analysis](https://github.com/Robert-Bejenaru/retail-sales-performance-powerbi) | Power BI, DAX, Power Query | Revenue, profit, regional performance and discount impact |
-| [Bookstore Performance & Publisher Insights](./tableau-bookstore-performance/README.md) | Tableau | Q1 sales, genres, regions, publishers and trends |
-| [Insurance Charges Analysis](./python-insurance-analysis/README.md) | Python, Matplotlib, Seaborn | Drivers of insurance charges |
-| [Exploring Global Happiness with SQL](./sql-happiness-index/README.md) | SQL | Happiness, GDP, social support, health and corruption |
+| [Bookstore Performance & Publisher Insights](https://github.com/Robert-Bejenaru/bookstore-performance-tableau) | Tableau | Q1 sales, genres, regions, publishers and trends |
+| [Insurance Charges Analysis](https://github.com/Robert-Bejenaru/insurance-analysis-python) | Python, Matplotlib, Seaborn | Drivers of insurance charges |
+| [Exploring Global Happiness with SQL](https://github.com/Robert-Bejenaru/global-happiness-sql-analysis) | SQL | Happiness, GDP, social support, health and corruption |
 
 ## What I Do
 
