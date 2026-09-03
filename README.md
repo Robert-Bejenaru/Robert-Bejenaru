@@ -17,10 +17,10 @@ My portfolio focuses on:
 
 | Project | Tools | Focus |
 |---|---|---|
-| [Retail Sales Performance Analysis](powerbi-retail-sales/README.md) | Power BI, DAX, Power Query | Revenue, profit, regional performance and discount impact |
-| [Bookstore Performance & Publisher Insights](tableau-bookstore-performance/README.md) | Tableau | Q1 sales, genres, regions, publishers and trends |
-| [Insurance Charges Analysis](python-insurance-analysis/README.md) | Python, Matplotlib, Seaborn | Drivers of insurance charges |
-| [Exploring Global Happiness with SQL](sql-happiness-index/README.md) | SQL | Happiness, GDP, social support, health and corruption |
+| [Retail Sales Performance Analysis](./powerbi-retail-sales/README.md) | Power BI, DAX, Power Query | Revenue, profit, regional performance and discount impact |
+| [Bookstore Performance & Publisher Insights](./tableau-bookstore-performance/README.md) | Tableau | Q1 sales, genres, regions, publishers and trends |
+| [Insurance Charges Analysis](./python-insurance-analysis/README.md) | Python, Matplotlib, Seaborn | Drivers of insurance charges |
+| [Exploring Global Happiness with SQL](./sql-happiness-index/README.md) | SQL | Happiness, GDP, social support, health and corruption |
 
 ## What I Do
 
