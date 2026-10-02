@@ -18,8 +18,8 @@ My portfolio focuses on:
 
 | Project | Tools | Focus |
 |---|---|---|
-| [Café Sales Cleaning & Dashboard](https://github.com/Robert-Bejenaru/cafe-sales-cleaning-dashboard) | Excel | Data cleaning, transaction validation and sales dashboarding |
 | [Coca-Cola USA Retailer Dashboard](https://github.com/Robert-Bejenaru/Coca-Cola-USA-Retailer-Dashboard-) | Excel | Sales, units, pricing, operating profit and retailer/brand analysis |
+| [Café Sales Cleaning & Dashboard](https://github.com/Robert-Bejenaru/cafe-sales-cleaning-dashboard) | Excel | Data cleaning, transaction validation and sales dashboarding |
 | [Retail Sales Performance Analysis](https://github.com/Robert-Bejenaru/retail-sales-performance-powerbi) | Power BI, DAX, Power Query | Revenue, profit, regional performance and discount impact |
 | [Bookstore Performance & Publisher Insights](https://github.com/Robert-Bejenaru/bookstore-performance-tableau) | Tableau | Q1 2024 sales, genres, regions, publishers and trends |
 | [Insurance Charges Analysis](https://github.com/Robert-Bejenaru/insurance-analysis-python) | Python, Matplotlib, Seaborn | Factors associated with insurance charges |
