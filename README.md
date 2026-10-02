@@ -33,17 +33,17 @@ I aim to show the complete analytical process, from data preparation through to 
 
 ## Portfolio Highlights
 
+### Coca-Cola USA Retailer Dashboard
+An Excel dashboard covering sales by beverage brand and retailer, with headline KPIs for total sales, units sold, average price and operating profit plus region and year slicers.
+
+### Café Sales Cleaning & Dashboard
+An Excel data-cleaning and dashboard project working through missing and invalid transaction fields, rebuilding calculable values where possible and deliberately leaving ambiguous item identities blank rather than inventing data.
+
 ### Retail Sales Performance Analysis
 Power BI management reporting covering 900 transaction-level orders, revenue, profit, product categories, regions and discount impact.
 
 ### Bookstore Performance & Publisher Insights
 A Tableau Q1 2024 performance review built from 750 records, covering genre, regional, state and publisher performance with an executive dashboard.
-
-### Café Sales Cleaning & Dashboard
-An Excel data-cleaning and dashboard project working through missing and invalid transaction fields, rebuilding calculable values where possible and deliberately leaving ambiguous item identities blank rather than inventing data.
-
-### Coca-Cola USA Retailer Dashboard
-An Excel dashboard covering sales by beverage brand and retailer, with headline KPIs for total sales, units sold, average price and operating profit plus region and year slicers.
 
 ### Insurance Charges Analysis
 A Python exploratory analysis of insurance charges, including the relationships between smoking status, age and BMI and the outcome variable.
