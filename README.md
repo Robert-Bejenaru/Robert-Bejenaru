@@ -1,50 +1,56 @@
 # Robert Bejenaru
 
-## Data Analyst | Python | SQL | Power BI | Tableau
+## Data Analyst | Excel | Power BI | Tableau | Python | SQL
 
-I build data analytics projects that turn transactional and public datasets into clear business insights.
+I build data analytics projects that turn transactional and public datasets into clear, decision-ready insights.
 
 My portfolio focuses on:
 - Data cleaning and validation
 - Exploratory data analysis
-- SQL analysis
-- Power BI reporting and DAX
+- Excel dashboards, PivotTables and data transformation
+- Power BI reporting, Power Query and DAX
 - Tableau dashboards and visual analytics
+- SQL analysis
 - Python visualisation
-- Business recommendations based on evidence
+- Turning findings into practical business recommendations
 
 ## Featured Projects
 
 | Project | Tools | Focus |
 |---|---|---|
 | [Retail Sales Performance Analysis](https://github.com/Robert-Bejenaru/retail-sales-performance-powerbi) | Power BI, DAX, Power Query | Revenue, profit, regional performance and discount impact |
-| [Bookstore Performance & Publisher Insights](https://github.com/Robert-Bejenaru/bookstore-performance-tableau) | Tableau | Q1 sales, genres, regions, publishers and trends |
-| [Insurance Charges Analysis](https://github.com/Robert-Bejenaru/insurance-analysis-python) | Python, Matplotlib, Seaborn | Drivers of insurance charges |
-| [Exploring Global Happiness with SQL](https://github.com/Robert-Bejenaru/global-happiness-sql-analysis) | SQL | Happiness, GDP, social support, health and corruption |
+| [Bookstore Performance & Publisher Insights](https://github.com/Robert-Bejenaru/bookstore-performance-tableau) | Tableau | Q1 2024 sales, genres, regions, publishers and trends |
+| [Café Sales Cleaning & Dashboard](https://github.com/Robert-Bejenaru/cafe-sales-cleaning-dashboard-excel) | Excel | Data cleaning, transaction validation and sales dashboarding |
+| [Coca-Cola USA Retailer Dashboard](https://github.com/Robert-Bejenaru/coca-cola-retailer-dashboard-excel) | Excel | Sales, units, pricing, operating profit and retailer/brand analysis |
+| [Insurance Charges Analysis](https://github.com/Robert-Bejenaru/insurance-analysis-python) | Python, Matplotlib, Seaborn | Factors associated with insurance charges |
+| [Exploring Global Happiness](https://github.com/Robert-Bejenaru/global-happiness-sql-analysis) | SQL | Happiness, GDP, social support, health and corruption |
 
-## What I Do
+## Analytics Workflow
 
-I work through a typical analytics workflow:
+**Understand → Clean → Validate → Explore → Analyse → Visualise → Recommend**
 
-**Understand → Clean → Explore → Analyse → Visualise → Recommend**
-
-I aim to present not only the numbers, but what they mean for a business decision.
+I aim to show the complete analytical process, from data preparation through to the business meaning behind the results.
 
 ## Portfolio Highlights
 
 ### Retail Sales Performance Analysis
-A Power BI management report analysing **900 transaction-level orders**, revenue, profit, cost, regional performance, product categories and discount bands. The analysis found a decline in revenue after 2021, while profit increased from 2022 to 2023, and highlighted category-specific discount effects on profit margin.
+Power BI management reporting covering 900 transaction-level orders, revenue, profit, product categories, regions and discount impact.
 
 ### Bookstore Performance & Publisher Insights
-A Tableau Q1 2024 performance review built from **750 records** across monthly sales files and publisher information. The analysis identified the West as the strongest region, South as a priority improvement area, and History as the highest-selling genre overall.
+A Tableau Q1 2024 performance review built from 750 records, covering genre, regional, state and publisher performance with an executive dashboard.
+
+### Café Sales Cleaning & Dashboard
+An Excel data-cleaning and dashboard project working through missing and invalid transaction fields, rebuilding calculable values where possible and deliberately leaving ambiguous item identities blank rather than inventing data.
+
+### Coca-Cola USA Retailer Dashboard
+An Excel dashboard covering sales by beverage brand and retailer, with headline KPIs for total sales, units sold, average price and operating profit plus region and year slicers.
 
 ### Insurance Charges Analysis
-A Python analysis examining how **smoking status, age and BMI** relate to insurance charges. Smoking was the strongest factor in the analysis, with average charges of **£32,050.23 for smokers vs £8,440.66 for non-smokers**.
+A Python exploratory analysis of insurance charges, including the relationships between smoking status, age and BMI and the outcome variable.
 
-### Exploring Global Happiness with SQL
-A SQL analysis covering **156 countries** and comparing happiness with GDP, social support, healthy life expectancy, generosity and corruption perception. The project explored cases where economic rank and happiness rank differed substantially.
+### Exploring Global Happiness
+A SQL analysis across 156 countries comparing happiness with GDP, social support, health, freedom, generosity and corruption perception.
 
 ## Contact
 
 - GitHub: [Robert-Bejenaru](https://github.com/Robert-Bejenaru)
-
